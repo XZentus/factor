@@ -1,4 +1,4 @@
-! Copyright (C) 2018 Your name.
+! Copyright (C) 2018 Nex.
 ! See http://factorcode.org/license.txt for BSD license.
 USING: kernel math combinators ;
 IN: e3
