@@ -1,1 +1,1 @@
-100 [1,b] [ 0 [ + ] reduce sq ] [ 0 [ sq + ] reduce ] bi -
+100 [1,b] 0 [ [ + ] reduce sq ] [ [ sq + ] reduce ] 2bi -
