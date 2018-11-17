@@ -39,3 +39,8 @@ IN: e1
   [ sdivs15 ]
   [ sdivs5  ]
   [ sdivs3  ] 2tri + swap - ;
+  
+  
+! -------------------------------------
+
+3 5 15 [ 999 over <range> 0 [ + ] reduce ] tri@ - + .
