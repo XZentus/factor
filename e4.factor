@@ -1,4 +1,4 @@
-! Copyright (C) 2018 Nex.
+! Copyright (C) 2018 XZentus.
 ! See http://factorcode.org/license.txt for BSD license.
 USING: kernel math math.ranges math.parser sequences locals math.order ;
 IN: e4
