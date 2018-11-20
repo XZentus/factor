@@ -1,4 +1,4 @@
-! Copyright (C) 2018 Nex.
+! Copyright (C) 2018 XZentus.
 ! See http://factorcode.org/license.txt for BSD license.
 USING: kernel sequences locals math math.functions ;
 IN: e7
