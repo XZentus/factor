@@ -8,8 +8,7 @@ IN: e21
   2 n 2 / [a,b)
   [ :> d
     d 2 * n d <range>
-    [ dup arr nth d + swap
-      arr set-nth ] each
+    [ arr [ d + ] change-nth ] each
   ] each
   arr ;
 
