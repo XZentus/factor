@@ -17,7 +17,7 @@ IN: e21
   [ [ swap ] dip ?nth = ] [ 3drop f ] if ;
 
 : (solve) ( n -- result )
-  dup init-divs-sums swap <iota>
+  [ init-divs-sums ] keep <iota>
   [ over amicable? ] filter sum nip ;
 
 : solve ( -- result )
